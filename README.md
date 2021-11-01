@@ -1,1 +1,1 @@
-# SSCI
+Imagenes depuradas SSCI
